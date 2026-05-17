@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hwywlx&show_icons=true&theme=tokyonight&border_color=39c5bb&icon_color=39c5bb&title_color=39c5bb" alt="hwywlx's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wlxyhw&show_icons=true&theme=tokyonight&border_color=39c5bb&icon_color=39c5bb&title_color=39c5bb" alt="wlxyhw's GitHub stats" />
 </p>
 
 ## 🛠 My Tech Stack
