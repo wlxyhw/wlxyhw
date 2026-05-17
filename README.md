@@ -11,10 +11,29 @@
 </p>
 
 ## 🎵 About Me
-- 🎹 **主题：** 初音未来 (Hatsune Miku) 风格
-- 💻 **正在研究：** 集装箱倒箱问题 (Container Reshuffling Problem) 的开源算法优化
-- 🛠️ **技术栈：** 搜索算法、物理环境建模、启发式评估与数据可视化
-- 📫 **联系方式：** [你的邮箱/博客链接可以放在这里]
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <ul>
+        <li>🎹 <b>主题：</b> 初音未来 (Hatsune Miku) 风格</li>
+        <li>💻 <b>正在研究：</b> 集装箱倒箱问题 (Container Reshuffling Problem) 的开源算法优化</li>
+        <li>🛠️ <b>技术栈：</b> 搜索算法、物理环境建模、启发式评估与数据可视化</li>
+      </ul>
+      <p align="left" style="margin-top: 15px;">
+        <a href="mailto:your_email@gmail.com">
+          <img src="https://img.shields.io/badge/Email-39c5bb?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+        <a href="https://space.bilibili.com/你的B站UID" target="_blank">
+          <img src="https://img.shields.io/badge/Bilibili-00AEEC?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
+        </a>
+      </p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FkYjY1M2NiaGg2YWd3czVxdzN4MmN1OHJtMmI2NjRzNDg2dDR6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13G6b772R26S6Q/giphy.gif" width="100" alt="Miku Pixel" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -27,6 +46,16 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Open_Source-000000?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<p align="center">
+  <a href="https://github.com/wlxyhw/【你的算法仓库名】">
+    <img src="https://github-readme-stats-eta-three-15.vercel.app/api/pin/?username=wlxyhw&repo=【你的算法仓库名】&theme=tokyonight&border_color=39c5bb&title_color=39c5bb&icon_color=39c5bb" alt="Featured Project Card" />
+  </a>
 </p>
 
 ---
